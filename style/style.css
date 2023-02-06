@@ -60,6 +60,18 @@ header{
     min-height: 530px;
 }
 
+.button{
+    background-color: var(--primary-color);
+    color: var(--dark-text);
+    padding: 0.5rem;
+    border-radius: 15px;
+    font-size: 14px;
+}
+
+
+
+
+
 {
 
 }
