@@ -31,13 +31,18 @@ body{
 .d-flex{
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-between;
     align-content: flex-start;
 }
 
 ul{
     list-style: none;
 }
+
+ul li{
+    text-transform: capitalize; 
+}
+
+
 
 .align-center{
     align-items: center;
@@ -46,12 +51,13 @@ ul{
 /*HEADER*/
 header{
     background-color: var(--bg-header);
+    color: var(--primary-color);
 }
 
 #hero{
     background-image: url(../img/jumbo.png);
     background-size: cover;
-    min-height: 600px;
+    min-height: 530px;
 }
 
 {
