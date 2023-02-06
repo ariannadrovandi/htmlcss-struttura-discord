@@ -72,6 +72,30 @@ ul li{
     color: var(--primary-color);
 }
 
+.even{
+    background-color: var(--bg-section);
+}
+
+.reverse{
+    flex-flow: row-reverse wrap;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.left{
+    width: 60%;
+}
+
+.right{
+    width: 40%;
+}
+
 /*HEADER*/
 header{
     background-color: var(--bg-header);
@@ -95,7 +119,10 @@ header{
 }
 
 /*FOOTER*/
-
+footer{
+    background-color: var(--bg-footer);
+    color: var(--primary-color);
+}
 
 
 
