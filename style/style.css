@@ -57,6 +57,7 @@ ul li{
     padding: 0.5rem;
     border-radius: 15px;
     font-size: 14px;
+    text-decoration: none;
     
     
 }
@@ -81,7 +82,9 @@ header{
     
 }
 
-
+.text-header{
+    
+}
 
 
 
