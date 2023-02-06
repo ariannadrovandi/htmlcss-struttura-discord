@@ -28,7 +28,20 @@ body{
     border: 1px solid black;
 }
 
+.d-flex{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-content: flex-start;
+}
 
+ul{
+    list-style: none;
+}
+
+.align-center{
+    align-items: center;
+}
 
 
 
