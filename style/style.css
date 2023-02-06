@@ -15,6 +15,13 @@
     --bg-light: #7289DA;
 }
 
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+
 
 {
 
