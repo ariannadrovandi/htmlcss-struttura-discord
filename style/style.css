@@ -67,7 +67,10 @@ ul li{
     padding: 1rem;
 }
 
-
+.bg-dark{
+    background-color: var(--bg-footer);
+    color: var(--primary-color);
+}
 
 /*HEADER*/
 header{
@@ -83,7 +86,12 @@ header{
 }
 
 .text-header{
-    
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-content: center;
+    max-width: 55%;
+    text-align: center;
 }
 
 
