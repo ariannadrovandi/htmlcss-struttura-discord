@@ -1,0 +1,21 @@
+/*general*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+:root{
+    --primary-color: #FFFFFF;
+    --bg-section: #F6F6F6;
+    --bg-footer:  #23272A;
+    --dark-text: #000000;
+    --bg-header: #2A5EE8;
+    --bg-light: #7289DA;
+}
+
+
+{
+
+}
