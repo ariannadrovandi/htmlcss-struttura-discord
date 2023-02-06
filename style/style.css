@@ -20,6 +20,13 @@
     margin: 0 auto;
 }
 
+body{
+    background-color: var(--primary-color);
+}
+
+.debug{
+    border: 1px solid black;
+}
 
 
 
