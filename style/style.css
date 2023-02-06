@@ -1,4 +1,4 @@
-/*general*/
+/*GENERAL*/
 *{
     margin: 0;
     padding: 0;
@@ -43,7 +43,16 @@ ul{
     align-items: center;
 }
 
+/*HEADER*/
+header{
+    background-color: var(--bg-header);
+}
 
+#hero{
+    background-image: url(../img/jumbo.png);
+    background-size: cover;
+    min-height: 600px;
+}
 
 {
 
