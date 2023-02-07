@@ -38,12 +38,14 @@ body{
 
 ul{
     list-style: none;
-    width: 55%;
-    margin: 0 auto;
-    
 }
 
-ul li{
+ul.menu{
+    width: 55%;
+    margin: 0 auto;
+}
+
+ul.menu li{
     text-transform: capitalize; 
 }
 
